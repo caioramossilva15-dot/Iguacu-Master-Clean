@@ -15,9 +15,12 @@ Interação atendente-cliente via link para whatsapp.
 Ferramentas de pesquisa, listagem e filtragem de proutos.
 Funçõess de navegação e interação dinâmica da página.
 ## Estrutura
-### Arquivos
-### Pastas
+### Detalhes
+Estrura basicamente feita em HTML5 (Linguagem de marcação e hipertexto) dividida em sessões de cabeçalho, informações de navegação e busca, corpo principal da página, conteúdo de exibição dos produtos em formato de cards e filtros de busca, rodapé, informações extras em relação a empresa.
+### Formatação dos arquivos
+```shell
 
+```
 ## Autores
 Caio Cesar, Luiz Felippe, Pedro Henrique, Rafael Mezzomo, Zihara Cyceli
 
