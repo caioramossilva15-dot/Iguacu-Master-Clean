@@ -10,7 +10,10 @@ Utilizamos alguns aplicativos que auxiliaram em nosso projeto. eles sao:
 VScode: para fazer o codigo
 Todoist: para organizar as tarefas de cada desenvolvedor
 E tambem utilizamos ferramentas de IA para fazer a estrutura do nosso site.
-## Funcionalidades
+## Funcionalidades:
+Interação atendente-cliente via link para whatsapp.
+Ferramentas de pesquisa, listagem e filtragem de proutos.
+Funçõess de navegação e interação dinâmica da página.
 ## Estrutura
 ### Arquivos
 ### Pastas
