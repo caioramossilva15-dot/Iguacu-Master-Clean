@@ -4,11 +4,13 @@
 ## Problema
 ola
 ## Requisitos operacionais
-
+Necessário ter algum aparelho com acesso ao google chrome
 ## Ferramentas utilizadas
-
+Utilizamos alguns aplicativos que auxiliaram em nosso projeto. eles sao:
+VScode: para fazer o codigo
+Todoist: para organizar as tarefas de cada desenvolvedor
+E tambem utilizamos ferramentas de IA para fazer a estrutura do nosso site.
 ## Funcionalidades
-
 ## Estrutura
 ### Arquivos
 ### Pastas
