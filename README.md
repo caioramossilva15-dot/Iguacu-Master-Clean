@@ -2,7 +2,7 @@
 ## Descrição
 Desenvolver um webcatalogo para a empresa Iguaçu Master Clean, listando todos os produtos e serviços que ela oferece. Temos como objetivo definir a estrutura e as funções de forma simples e intuitiva para os clientes.
 ## Problema
-ola
+Organizar os produtos que são fornecidos pela Iguaçu Master Clean em um website com formato de catálogo, que faça uso de paletas de cores dinâmicas e que estão relacionadas ao padrão estético empresarial, e ao perfil qualificado que a empresa busca apresentar.
 ## Requisitos operacionais
 Necessário ter algum aparelho com acesso ao google chrome
 ## Ferramentas utilizadas
