@@ -1,6 +1,6 @@
 # Iguaçu Master Clean - Web Catálogo
 ## Descrição
-
+Desenvolver um webcatalogo para a empresa Iguaçu Master Clean, listando todos os produtos e serviços que ela oferece. Temos como objetivo definir a estrutura e as funções de forma simples e intuitiva para os clientes.
 ## Problema
 ola
 ## Requisitos operacionais
