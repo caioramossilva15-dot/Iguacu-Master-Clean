@@ -19,6 +19,26 @@ Funçõess de navegação e interação dinâmica da página.
 Estrura basicamente feita em HTML5 (Linguagem de marcação e hipertexto) dividida em sessões de cabeçalho, informações de navegação e busca, corpo principal da página, conteúdo de exibição dos produtos em formato de cards e filtros de busca, rodapé, informações extras em relação a empresa.
 ### Formatação dos arquivos
 ```shell
+│   index.html
+│   produtos.html
+│
+└───resources
+    ├───css
+    │       style.css
+    │
+    ├───fonts
+    │       orkney-bold.otf
+    │       orkney-light.otf
+    │       orkney-medium.otf
+    │       orkney-regular.otf
+    │       SIL Open Font License.txt
+    │
+    ├───img
+    │       Captura_de_tela_2025-10-27_095257-removebg-preview.svg
+    │       Iguaçu logo.png
+    │
+    └───js
+            script.js
 
 ```
 ## Autores
