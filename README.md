@@ -1,5 +1,7 @@
 # Web Catálogo
 
+---
+
 ## Descrição
 
 O protóripo é um web catálogo desenvolvido para apresentar os produtos comercializados pela empresa **Iguassu Master Clean** de forma organizada, simples e intuitiva.
