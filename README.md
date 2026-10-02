@@ -70,7 +70,7 @@ O projeto é desenvolvido utilizando HTML5, CSS3 e JavaScript e possui uma organ
 ### Estrutura de arquivos
 
 ```shell
-Iguacu-Master-Clean/
+IMC website/
 │
 ├── index.html
 ├── produtos.html
