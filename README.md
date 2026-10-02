@@ -1,48 +1,115 @@
-# Iguaçu Master Clean - Web Catálogo
+# Web Catálogo
+
 ## Descrição
-Desenvolver um webcatalogo para a empresa Iguaçu Master Clean, listando todos os produtos e serviços que ela oferece. Temos como objetivo definir a estrutura e as funções de forma simples e intuitiva para os clientes.
+
+O protóripo é um web catálogo desenvolvido para apresentar os produtos comercializados pela empresa **Iguassu Master Clean** de forma organizada, simples e intuitiva.
+
+O projeto tem como objetivo facilitar o acesso dos clientes às informações dos produtos, melhorar a divulgação do portfólio da empresa e proporcionar uma experiência de navegação adequada para diferentes dispositivos.
+
+---
+
 ## Problema
-Organizar os produtos que são fornecidos pela Iguaçu Master Clean em um website com formato de catálogo, que faça uso de paletas de cores dinâmicas e que estão relacionadas ao padrão estético empresarial, e ao perfil qualificado que a empresa busca apresentar.
+
+A empresa necessita de uma forma mais organizada de apresentar seus produtos e informações institucionais aos clientes e potenciais clientes.
+
+Diante disso, o projeto propõe o desenvolvimento de um website em formato de catálogo, reunindo os produtos em uma interface estruturada e utilizando uma identidade visual relacionada ao padrão estético da empresa.
+
+A aplicação também busca facilitar a localização dos produtos e o contato entre clientes e atendentes.
+
+---
+
 ## Requisitos operacionais
-acesso á algum navegador com acesso a internet.
+
+Para utilizar o sistema, é necessário:
+
+- Um dispositivo com acesso à internet;
+- Um navegador web atualizado;
+- Conexão com a internet para acessar a aplicação e os recursos externos utilizados pelo sistema.
+
+---
+
 ## Ferramentas utilizadas
-Utilizamos alguns aplicativos que auxiliaram em nosso projeto. eles sao:
-VScode: para fazer o codigo
-Todoist: para organizar as tarefas de cada desenvolvedor
-E tambem utilizamos ferramentas de IA para fazer a estrutura do nosso site.
-## Funcionalidades:
-Interação atendente-cliente via link para whatsapp.
-Ferramentas de pesquisa, listagem e filtragem de proutos.
-Funçõess de navegação e interação dinâmica da página.
+
+Durante o desenvolvimento do projeto foram utilizadas ferramentas para programação, organização das atividades e apoio ao desenvolvimento.
+
+### Desenvolvimento
+
+- **Visual Studio Code (VS Code):** utilizado para desenvolvimento e edição dos arquivos do projeto;
+- **HTML5:** utilizado para estruturar as páginas da aplicação;
+- **CSS3:** utilizado para estilização, organização visual e responsividade da interface;
+- **JavaScript:** utilizado para implementar comportamentos e interações dinâmicas.
+
+### Organização
+
+- **Todoist:** utilizado para organizar as tarefas e acompanhar as atividades dos integrantes da equipe.
+
+### Ferramentas de apoio
+
+- **Ferramentas de Inteligência Artificial:** utilizadas como apoio durante o desenvolvimento, principalmente para pesquisa, resolução de dúvidas, elaboração de estruturas e auxílio na implementação de determinados recursos.
+
+---
+
+## Funcionalidades
+
+O sistema possui as seguintes funcionalidades principais:
+
+- Visualização e listagem de produtos;
+- Pesquisa de produtos;
+- Filtragem de produtos;
+- Navegação entre as páginas;
+- Interações dinâmicas na interface;
+- Interface responsiva;
+- Contato entre cliente e atendente por meio de link para o WhatsApp.
+
+---
+
 ## Estrutura
-### Detalhes
-Estrura basicamente feita em HTML5 (Linguagem de marcação e hipertexto) dividida em sessões de cabeçalho, informações de navegação e busca, corpo principal da página, conteúdo de exibição dos produtos em formato de cards e filtros de busca, rodapé, informações extras em relação a empresa.
-### Formatação dos arquivos
+
+O projeto é desenvolvido utilizando HTML5, CSS3 e JavaScript e possui uma organização separada entre páginas, estilos, scripts e recursos visuais.
+
+### Estrutura de arquivos
+
 ```shell
-│   index.html
-│   produtos.html
+Iguacu-Master-Clean/
 │
-└───resources
-    ├───css
-    │       style.css
+├── index.html
+├── produtos.html
+│
+└── resources/
+    ├── css/
+    │   └── style.css
     │
-    ├───fonts
-    │       orkney-bold.otf
-    │       orkney-light.otf
-    │       orkney-medium.otf
-    │       orkney-regular.otf
-    │       SIL Open Font License.txt
+    ├── fonts/
+    │   ├── orkney-bold.otf
+    │   ├── orkney-light.otf
+    │   ├── orkney-medium.otf
+    │   ├── orkney-regular.otf
+    │   └── SIL Open Font License.txt
     │
-    ├───img
-    │       Captura_de_tela_2025-10-27_095257-removebg-preview.svg
-    │       Iguaçu logo.png
+    ├── img/
+    │   ├── Captura_de_tela_2025-10-27_095257-removebg-preview.svg
+    │   └── Iguaçu logo.png
     │
-    └───js
-            script.js
-
+    └── js/
+        └── script.js
 ```
-## Autores
-Caio Cesar, Luiz Felippe, Pedro Henrique, Rafael Mezzomo, Zihara Cyceli
 
-## Funcionalidades e Arquivos detalhados
-Link de acesso as páginas de [arquivos detalhados](docs/arquivos.md) e [funcionalidades detalhadas](docs/funcionalidades.md).
+---
+
+## Autores
+
+- Caio Cesar
+- Luiz Felippe
+- Pedro Henrique
+- Rafael Mezzomo
+- Zihara Cyceli
+
+---
+
+## Documentação
+
+A documentação complementar do projeto está dividida em duas páginas:
+
+[Arquivos detalhados](docs/arquivos.md) — apresenta a estrutura do projeto e a responsabilidade de seus principais arquivos e recursos;
+
+[Funcionalidades detalhadas](docs/funcionalidades.md) — apresenta o funcionamento das principais funcionalidades da aplicação.
