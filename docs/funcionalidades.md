@@ -2,11 +2,7 @@
 
 ## Navegação
 ## Visualização de produtos
-## Pesquisa de produtos
-## Filtragem de produtos
-## Interações dinâmicas
 ## Responsividade
-## Contato via WhatsApp
 
 ---
 
